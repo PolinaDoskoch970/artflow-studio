@@ -1,2 +1,1 @@
-// 1. Проверка что JS загружен
-console.log('JS подключен');
+console.log('TEST');
